@@ -59,7 +59,7 @@ a:hover{
 }
 
 .img-circle{
-  border-radius: 50%;
+  border-radius: 5px;
 }
 
 .text-center{
@@ -70,9 +70,9 @@ a:hover{
 }
 
 #img-profile{
-  width: 100px;
-  height: 100px;
-  border: 3px solid #cccccc;
+  width: 120px;
+  height: 120px;
+  border: none;
 }
 
 #movies{
