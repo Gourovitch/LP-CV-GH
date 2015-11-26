@@ -5,6 +5,7 @@ body{
   color:  #7d7d7d;
   font-size: 15px;
   line-height: 1.6em;
+  padding-bottom: 70px;
 }
 
 h1, h2, h3{
@@ -159,3 +160,31 @@ a:hover{
   font-size: 19px;
 }
 
+#footer{
+  text-align: center;
+  padding-top: 13px;
+  padding-bottom: 5px;
+  font-size: 13px;
+  list-style: none;
+  color: #7d7d7d;
+  display: inline-block;
+}
+
+.list-footer{
+  margin-right: 5px;
+  margin-left: 5px;
+  display: inline-block;
+}
+
+#pfooter{
+  text-align: right;
+  font-size: 10px;
+  color: #DD5555;
+  padding-top: 0px;
+  margin-top: 0px;
+}
+
+.fa-warning{
+  color: #DD5555;
+  padding-top: 15px;
+}
